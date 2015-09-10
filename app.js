@@ -2,14 +2,14 @@ require("babel/register");
 
 var path = require('path'),
     chalk = require('chalk'),
-    menu = require(path.join(__dirname + '/lib/node-menu/lib/nodemenu.js'));
+    menu = require(path.join(__dirname, '/lib/node-menu/lib/nodemenu.js'));
 
 menu.addDelimiter('*', 55, chalk.green(' Select a sorting algorithm '));
 
 menu.addItem(
     chalk.blue('Bubble Sort'),
     function(elements) {
-        require(path.join(__dirname + '/bubbleSort'))(elements);
+        require(path.join(__dirname, '/bubbleSort'))(elements);
     },
     null,
     [
@@ -19,7 +19,7 @@ menu.addItem(
 menu.addItem(
     chalk.green.dim('Insertion Sort'),
     function(elements) {
-        require(path.join(__dirname + '/insertionSort'))(elements);
+        require(path.join(__dirname, '/insertionSort'))(elements);
     },
     null,
     [
@@ -29,7 +29,7 @@ menu.addItem(
 menu.addItem(
     chalk.red('Selection Sort'),
     function(elements) {
-        require(path.join(__dirname + '/selectionSort'))(elements);
+        require(path.join(__dirname, '/selectionSort'))(elements);
     },
     null,
     [
