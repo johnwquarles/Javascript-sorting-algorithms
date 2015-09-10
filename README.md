@@ -8,9 +8,7 @@ From the main menu, enter the number of the algorithm you'd
 like to see, followed by the number of randomly-placed numbers that will comprise
 the starting array. Then check out what the computer did to put things in order.
 
-### To install and use:
-
-Mac:
+### To install and use (Mac):
 
 From terminal, zsh, iTerm, or whatever you happen to use:
 
@@ -33,7 +31,15 @@ Install xcode, if you're feeling up for that, or
 **Everyone:**
 
 In the directory of your choosing,
+
 `git clone https://github.com/johnwquarles/getsorted.git`
+
 `cd getsorted`
+
 `npm install`
+
 `node app.js`
+
+### Windows:
+
+Coming soon
