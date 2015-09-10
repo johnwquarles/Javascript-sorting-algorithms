@@ -1,0 +1,24 @@
+{
+  "name": "javascript-sorts",
+  "version": "1.0.0",
+  "description": "Sorting algorithms implemented in Javascript",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwquarles/Javascript-sorting-algorithms.git"
+  },
+  "author": "john.w.quarles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnwquarles/Javascript-sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/johnwquarles/Javascript-sorting-algorithms#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "chalk": "^1.1.1",
+    "lodash": "^3.10.1"
+  }
+}

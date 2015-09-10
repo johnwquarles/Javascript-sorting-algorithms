@@ -1,0 +1,51 @@
+{
+  "name": "node-menu",
+  "description": "Allows to create command line menu for REPL applications",
+  "version": "0.0.8",
+  "author": {
+    "name": "Borys Nebosenko",
+    "email": "borys.nebosenko@gmail.com"
+  },
+  "keywords": [
+    "menu",
+    "shell",
+    "repl",
+    "console",
+    "terminal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbu/node-menu"
+  },
+  "dependencies": {
+    "underscore": "1.6.0"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbu/node-menu/issues"
+  },
+  "homepage": "https://github.com/nbu/node-menu",
+  "_id": "node-menu@0.0.8",
+  "dist": {
+    "shasum": "d4354ccbef825a38b5ddd45843a4af9e14f0fc53",
+    "tarball": "http://registry.npmjs.org/node-menu/-/node-menu-0.0.8.tgz"
+  },
+  "_from": "node-menu@*",
+  "_npmVersion": "1.3.24",
+  "_npmUser": {
+    "name": "nbu",
+    "email": "boris.nebosenko@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "nbu",
+      "email": "boris.nebosenko@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "d4354ccbef825a38b5ddd45843a4af9e14f0fc53",
+  "_resolved": "https://registry.npmjs.org/node-menu/-/node-menu-0.0.8.tgz"
+}
