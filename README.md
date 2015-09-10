@@ -30,14 +30,10 @@ Install xcode, if you're feeling up for that, or
 
 `brew install git`
 
-**everyone:**
+**Everyone:**
 
 In the directory of your choosing,
-
 `git clone https://github.com/johnwquarles/getsorted.git`
-
 `cd getsorted`
-
 `npm install`
-
 `node app.js`
