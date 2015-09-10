@@ -40,6 +40,6 @@ In the directory of your choosing,
 
 `node app.js`
 
-### Windows:
+### Windows, Linux:
 
 Coming soon
