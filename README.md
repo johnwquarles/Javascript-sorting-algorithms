@@ -1,7 +1,7 @@
 # Get Sorted
 
 Get Sorted is a Node.js command-line application that will run one of several
-sorting algorithms for you and present, in gorgeous ANSI color, what it did to
+sorting algorithms for you and present, in glorious ANSI color, what it did to
 complete the sort.
 
 From the main menu, enter the number of the algorithm you'd
