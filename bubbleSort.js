@@ -1,4 +1,4 @@
-var _ = require('lodash'),
+var _ = require('underscore'),
     chalk = require('chalk');
 
 module.exports = function (elements) {

@@ -19,6 +19,6 @@
   "dependencies": {
     "babel": "^5.8.23",
     "chalk": "^1.1.1",
-    "lodash": "^3.10.1"
+    "underscore": "^1.8.3"
   }
 }
